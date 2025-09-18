@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "creator": "https://www.youtube.com/channel/UCi2qHfRMVEI_yHH90gZBevQ",
+    "title": "Video Editor",
+    "description": "Looking for a talented Video Editor with experience in Adobe Premiere Pro. Categories: Entertainment/Lifestyle & Vlogs. Content form: short-form and long-form.",
+    "top_required_skills": ["splice & dice", "rough cut & sequencing", "2d animation"],
+    "preferred_location": "asia",
+    "monthly_budget": "2500"
+  },
+  {
+    "id": 1,
+    "creator": "https://www.youtube.com/@imjennim",
+    "title": "Producer/Video Editor",
+    "description": "Hiring a Producer/Video Editor based in New York (priority) or remote US. Focus: Entertainment/Education/Food & Cooking. Strong TikTok experience preferred.",
+    "top_required_skills": ["storyboarding", "sound designing", "rough cut & sequencing", "filming"],
+    "preferred_location": "new york",
+    "hourly_budget": "100-150",
+    "gender_preference": "female (preferred, not mandatory)"
+  },
+  {
+    "id": 2,
+    "creator": "https://www.youtube.com/@aliabdaal",
+    "title": "Chief Operating Officer",
+    "description": "Looking for a COO to run the channel in productivity. Background in strategy, consulting, or business operations/development. Must have high energy and passion for educational content.",
+    "top_required_skills": ["strategy", "consulting", "business operations", "development"],
+    "preferred_location": "global",
+    "monthly_budget": "no limit"
+  }
+]
